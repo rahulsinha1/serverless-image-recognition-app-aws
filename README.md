@@ -1,4 +1,20 @@
-# serverless-image-recognition-app-aws
+# Serverless Image Recognition on AWS
+
+
+## What we learned :
+
+- AWS Best practices for **serverless architecture**.
+- Writing **AWS Lambda** functions.
+- Using **AWS Rekogniztion** to analyze images and genearate automated reports.
+- **AWS API Gateway** to process requests from clients outside AWS.
+- **AWS IAM** to assign role, policy and maintain security configuration of the application.
+- **Amazon SNS** to subscribe to an event and send e-mail notifications.
+- Using **AWS S3** to store and protect data.
+- Attaching role to Lambda functions so that it is able to access other AWS services as required.
+- **AWS CloudWatch** to monitor the use of applictions by the support team.
+- Uploading an image via JSON by encoding it to a base64 format.
+
+## Project Description
 
 Company X is a manufacturing company and produces widgets. Company X is in the process innovating their inspection process which has been completely manual to this point. Inspectors take pictures of widgets to ensure that the widgets are within compliance standards set by the Quality Assurance Group.
 
