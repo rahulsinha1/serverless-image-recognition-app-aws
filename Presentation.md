@@ -1,1 +1,0 @@
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/rahulsinha1/serverless-image-recognition-app-aws/blob/main/Serverless%20Image%20Recognition%20-%20Presentation.pptx]' width='100%' height='600px' frameborder='0'>
